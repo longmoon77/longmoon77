@@ -1,3 +1,8 @@
+💫longmoon🌕丨💮🌸嫦悅🇨🇳，19岁，会中文和英语，什么编程语言都不会（但是喜欢Rust），擅长GUI（的使用和操作）。使用[Xray](https://github.com/XTLS/xray-core)接入到国际互联网。喜欢KDE和火狐🦊。暗恋[@lifegpc](https://github.com/lifegpc)。喜欢喝牛奶🐮🥛。
+
+[维基百科用户页](https://zh.wikipedia.org/wiki/User:月梦播客楼猫)
+
+[实惠的日本SoftBank VPS（无AFF）](https://halocloud.halocloud.net)
 <details>
 <summary>gpg公钥</summary>
 <p>
