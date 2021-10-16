@@ -54,3 +54,13 @@ weCWddGA7FiHT4DQvYT7QeO6zoUgCxOSZMTO/Bc0lib2
 
 </p>
 </details>
+<details>
+<summary>gpg指纹</summary>
+<p>
+
+```
+abac 1059 eb94 5f63 1203 71f7 8070 8518 cb67 77ad
+```
+
+</p>
+</details>
