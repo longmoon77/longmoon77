@@ -4,7 +4,7 @@
 
 [维基百科用户页](https://zh.wikipedia.org/wiki/User:月梦播客楼猫)
 
-[买VPS搭节点当然搬瓦工（无AFF）](https://www.bandwagonhost.com)
+[买VPS搭节点当然搬瓦工（无AFF）](https://bandwagonhost.com)
 <details>
 <summary>gpg公钥</summary>
 <p>
