@@ -4,6 +4,8 @@
 
 [Manjaro Linux，KDE桌面环境](https://manjaro.org/downloads/official/kde/)
 
+[openSUSE](https://www.opensuse.org/)
+
 [维基百科用户页](https://zh.wikipedia.org/wiki/User:月梦播客楼猫)
 
 [买VPS搭节点当然搬瓦工（无AFF）](https://bandwagonhost.com)
