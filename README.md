@@ -4,7 +4,7 @@
 
 [维基百科用户页](https://zh.wikipedia.org/wiki/User:月梦播客楼猫)
 
-[实惠的日本SoftBank VPS（无AFF）](https://halocloud.halocloud.net/index.php?rp=/store/softbank-japan-100m-vps)
+[买VPS搭节点当然搬瓦工（无AFF）](https://www.bandwagonhost.com)
 <details>
 <summary>gpg公钥</summary>
 <p>
