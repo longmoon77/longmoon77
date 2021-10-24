@@ -1,3 +1,22 @@
+<details>
+​<summary>LICENSE</summary>
+<p>
+
+```
+Copyright (c) 2021 longmoon77
+longmoon77/longmoon77 repository is licensed under Mulan PSL v2.
+You can use this repository according to the terms and conditions of the Mulan PSL v2.
+You may obtain a copy of Mulan PSL v2 at:
+         http://license.coscl.org.cn/MulanPSL2
+THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND,
+EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,
+MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
+See the Mulan PSL v2 for more details.
+```
+
+</p>
+</details>
+
 ## <img src="https://cdn.discordapp.com/emojis/630965840208199680.gif?v=1" height=32/> Welcome to my Github! <img src="https://cdn.discordapp.com/emojis/630965840208199680.gif?v=1" height=32/>
 
 💫longmoon🌕丨💮🌸嫦悅🇨🇳，19岁，会中文和英语，什么编程语言都不会（但是喜欢Rust），擅长GUI（的使用和操作）。使用[Xray](https://github.com/XTLS/xray-core)或[Trojan-Go](https://github.com/p4gefau1t/trojan-go)接入到国际互联网。喜欢KDE和火狐🦊。暗恋[@lifegpc](https://github.com/lifegpc)。喜欢喝牛奶🐮🥛。
