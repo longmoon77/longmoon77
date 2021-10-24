@@ -1,3 +1,5 @@
+**中文** | [English](/LICENSE_en.md)
+
 **木兰宽松许可证， 第2版**
 
 2020年1月 http://license.coscl.org.cn/MulanPSL2
