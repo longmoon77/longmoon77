@@ -14,7 +14,7 @@ Your reproduction, use, modification and distribution of the Software shall be s
 
 **Contributor** means the Individual or Legal Entity who licenses its copyrightable work under this License.
 
-**Legal** Entity means the entity making a Contribution and all its Affiliates.
+**Legal Entity** means the entity making a Contribution and all its Affiliates.
 
 **Affiliates** means entities that control, are controlled by, or are under common control with the acting entity under this License, ‘control’ means direct or indirect ownership of at least fifty percent (50%) of the voting power, capital or other securities of controlled or commonly controlled entity.
 
