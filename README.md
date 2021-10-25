@@ -101,4 +101,4 @@ abac 1059 eb94 5f63 1203 71f7 8070 8518 cb67 77ad
 </details>
 
 ## LICENSE
-[Mulan PSL v2](/LICENSE.md)
+[Mulan PSL v2](/LICENSE)
