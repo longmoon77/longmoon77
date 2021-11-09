@@ -19,13 +19,9 @@ See the Mulan PSL v2 for more details.
 
 ## <img src="https://cdn.discordapp.com/emojis/630965840208199680.gif?v=1" height=32/> Welcome to my Github! <img src="https://cdn.discordapp.com/emojis/630965840208199680.gif?v=1" height=32/>
 
-💫longmoon🌕丨💮🌸嫦悅🇨🇳，19岁，会中文和英语，什么编程语言都不会（但是喜欢Rust），擅长GUI（的使用和操作）。使用[Xray](https://github.com/XTLS/xray-core)或[Trojan-Go](https://github.com/p4gefau1t/trojan-go)接入到国际互联网。喜欢KDE和火狐🦊。暗恋[@lifegpc](https://github.com/lifegpc)。喜欢喝牛奶🐮🥛。
+💫longmoon🌕丨💮🌸嫦悅🇨🇳，19岁，会中文和英语，什么编程语言都不会（但是喜欢Rust），擅长GUI（的使用和操作）。使用[Xray](https://github.com/XTLS/xray-core)接入到国际互联网。喜欢KDE和火狐🦊。暗恋[@lifegpc](https://github.com/lifegpc)。喜欢喝牛奶🐮🥛。
 
-Docker就是个垃圾，[Kubernetes](https://kubernetes.io/zh/)才是王道。哪个傻逼再用Docker，等着那头鲸鱼把你容器都给你扔海里面去吧。
-
-[Manjaro Linux，KDE桌面环境](https://manjaro.org/downloads/official/kde/)
-
-[openSUSE](https://www.opensuse.org/)
+[KDE neon](https://neon.kde.org)
 
 [维基百科用户页](https://zh.wikipedia.org/wiki/User:月梦播客楼猫)
 
