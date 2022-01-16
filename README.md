@@ -21,9 +21,10 @@ See the Mulan PSL v2 for more details.
 
 💫longmoon🌕丨💮🌸嫦悅🇨🇳，19岁，会中文和英语，什么编程语言都不会（但是喜欢Rust），擅长GUI（的使用和操作）。使用[Xray](https://github.com/XTLS/xray-core)接入到国际互联网。喜欢KDE和火狐🦊。暗恋[@lifegpc](https://github.com/lifegpc)。喜欢喝牛奶🐮🥛。
 
-[CentOS已死，Alma Linux当立](https://almalinux.org/zh-hans/)
+[CentOS已死，AlmaLinux OS当立，完美兼容Red Hat Enterprise Linux，维护到2029年](https://almalinux.org/zh-hans/)
 
-[带宽大，价格低的美国联通CU4837 VPS](https://idc.wiki/aff.php?aff=2128)
+[搬瓦工，自建富强上网首选VPS](https://bwh81.net/aff.php?aff=67207)
+
 <details>
 <summary>gpg公钥</summary>
 <p>
